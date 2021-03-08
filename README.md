@@ -14,6 +14,13 @@
 
  [![Everything Is AWESOME](./yt.png)](https://www.youtube.com/watch?v=JJSpnA3E07U "Youtube Video")
 
+## 💡 Product Showcase
+> ![Product](./teaser.png)
+* Leather material matches sofa
+* Hidden wireless QI mobile charger
+
+
+
 ---
 
 This project was created by [T3chFlicks](https://t3chflicks.org) - A tech focused education and services company.
