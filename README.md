@@ -2,6 +2,9 @@
 > Add wireless mobile charging to any sofa
 ![thumbnail](./thumbnail.png)
 
+
+🎖️ Featured by [Instructables](https://www.instructables.com/Wireless-Charging-Sofa/)
+
 --- 
 
 ## `tutorials`
